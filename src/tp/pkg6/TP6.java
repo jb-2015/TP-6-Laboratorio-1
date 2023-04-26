@@ -5,6 +5,8 @@
  */
 package tp.pkg6;
 
+import igu.MenuPrincipal;
+
 /**
  *
  * @author juany
@@ -16,6 +18,9 @@ public class TP6 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        MenuPrincipal menuPrincipal = new MenuPrincipal();
+        menuPrincipal.setVisible(true);
     }
     
 }

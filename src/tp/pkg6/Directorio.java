@@ -10,5 +10,5 @@ package tp.pkg6;
  * @author juany
  */
 public class Directorio {
-    
+
 }
